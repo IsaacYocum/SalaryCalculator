@@ -12,6 +12,7 @@ namespace SalaryCalculator
 {
     public partial class FrmMain : Form
     {
+        //proof of change
         public FrmMain()
         {
             InitializeComponent();
